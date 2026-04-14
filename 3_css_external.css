@@ -1,0 +1,12 @@
+.box{
+    color: blueviolet;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: smaller;
+    text-align: left;
+}
+.box1{
+    color: brown;
+    text-align: right;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: small;
+}
